@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Hey </h1>
 
-<!--
-**furkansylyc/furkansylyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Furkan and I'm a Computer Engineering student in Isparta</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I work on game development and cyber security<br>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+ 
+</div>
+
+###
