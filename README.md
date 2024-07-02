@@ -2,8 +2,6 @@
 <h3 align="center">Student of Computer Engineering in Isparta</h3>
 
 - I'm working on **Cyber Security and Game Dev**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
