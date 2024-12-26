@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Furkan</h1>
+<h1 align="center">Hi, I'm Furkan</h1>
 <h3 align="center">A Passionate Student of Computer Engineering in Isparta</h3>
 
 <p align="center">
@@ -7,9 +7,8 @@
 
 ---
 
--  Im  working on **Mobile Apps and Game Dev**  
--  Im  learning **Unity,Java,Kotlin**  
-
+-  I'm working on **Mobile Apps and Game Dev**  
+-  I'm learning **Unity, Java, Kotlin**  
 
 ---
 
@@ -40,7 +39,7 @@
 
 ---
 
-<h2 align="left"> GitHub Stats:</h2>
+<h2 align="left">GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkansylyc&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkansylyc&theme=radical" alt="GitHub Streak" />
@@ -48,14 +47,21 @@
 
 ---
 
-<h2 align="left"> Featured Projects:</h2>
-<ul
+<h2 align="left">Top Languages:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkansylyc&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="left">Featured Projects:</h2>
+<ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.RaGame.StoneAge">Stone Age: Brick Breaker</a> - A prehistoric-themed brick-breaking game!</li>
 </ul>
 
 ---
 
-<h2 align="left"> Connect with Me:</h2>
+<h2 align="left">Connect with Me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/furkansylyc/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
@@ -63,4 +69,4 @@
   <a href="mailto:soyleyicifurkan@gmail.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/> 
   </a> 
-</p>
+</p> 
