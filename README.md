@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Student of Computer Engineering in Isparta</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkansoyle&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=furkansylyc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -42,8 +42,8 @@
 
 <h2 align="left"> GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkansoyle&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkansoyle&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkansylyc&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkansylyc&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
