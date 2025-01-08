@@ -13,7 +13,7 @@
 ---
 <h2 align="left"> Projects:</h2>
 <ul>
-  <li><a href="[https://play.google.com/store/apps/details?id=com.RaGame.StoneAge]">[Stone Age:Brick Breaker]</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.RaGame.StoneAge">Stone Age:Brick Breaker</a></li>
 </ul>
 
 
