@@ -8,7 +8,7 @@
 ---
 
 -  I'm working on **Mobile Apps and Game Dev**  
--  I'm learning **Unity, Java, Kotlin,Jetpack Compose, HTML, CSS, React **  
+-  I'm learning **Unity, Java, Kotlin,Jetpack Compose, HTML, CSS, React**  
 
 ---
 <h2 align="left"> Projects:</h2>
