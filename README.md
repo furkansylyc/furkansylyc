@@ -73,7 +73,7 @@
 
 <h2 align="left">Featured Projects:</h2>
 <ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.RaGame.StoneAge">Stone Age: Brick Breaker</a> - A prehistoric-themed brick-breaking game!</li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.RaGame.StoneAge">Stone Age: Brick Breaker</a> - A prehistoric-themed brick-breaking game</li>
 </ul>
 
 ---
