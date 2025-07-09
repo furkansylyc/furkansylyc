@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="banner" />
+</p>
+
 <h1 align="center"> Hi, I'm Furkan!</h1>
 <h3 align="center"> Passionate Computer Engineering Student | Mobile & Game Developer</h3>
 
@@ -25,8 +29,8 @@
   <li>
     📝 <a href="https://play.google.com/store/apps/details?id=com.furkansoyleyici.easynote" target="_blank"><b>EasyNote</b></a> — A feature-rich note-taking app with colorful customization, reminder notifications, REST API backend & intuitive UI.
   </li>
-<li>
-    📝 <a href="https://www.senolsoyleyici.com.tr/" target="_blank"><b>SenolSoyleyici.com</b></a>A beautifully crafted poetry platform with clean UI, dynamic routing, secure JWT authentication, and a modern full-stack architecture.
+  <li>
+    📝 <a href="https://www.senolsoyleyici.com.tr/" target="_blank"><b>SenolSoyleyici.com</b></a> — A beautifully crafted poetry platform with clean UI, dynamic routing, secure JWT authentication, and a modern full-stack architecture.
   </li>
 </ul>
 
