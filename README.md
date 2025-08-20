@@ -2,7 +2,7 @@
   <img src="banner.jpg" alt="banner" />
 </p>
 
-<h1 align="center"> Hi, I'm Furkan!</h1>
+<h1 align="center"> Hi,I'm Furkan!</h1>
 <h3 align="center"> Passionate Computer Engineering Student | Mobile & Game Developer</h3>
 
 <p align="center">
