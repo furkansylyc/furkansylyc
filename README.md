@@ -13,10 +13,10 @@
 
 ###  About Me
 
-- 🎯 Currently building **Mobile Apps**
-- 🔭 Learning & exploring: **Unity, Java, Kotlin, Jetpack Compose, React**
-- 💻 Backend curious: **Spring Boot, REST APIs, Docker**
-- 🌍 Always hungry to learn new technologies and deliver real-world projects!
+-  Currently building **Mobile Apps**
+-  Learning & exploring: **Unity, Java, Kotlin, Jetpack Compose, React**
+-  Backend curious: **Spring Boot, REST APIs, Docker**
+-  Always hungry to learn new technologies and deliver real-world projects!
 
 ---
 
@@ -30,7 +30,7 @@
     📝 <a href="https://play.google.com/store/apps/details?id=com.furkansoyleyici.easynote" target="_blank"><b>EasyNote</b></a> — A feature-rich note-taking app with colorful customization, reminder notifications, REST API backend & intuitive UI.
   </li>
   <li>
-    📝 <a href="https://www.senolsoyleyici.com.tr/" target="_blank"><b>SenolSoyleyici.com</b></a> — A beautifully crafted poetry platform with clean UI, dynamic routing, secure JWT authentication, and a modern full-stack architecture.
+    📝 <a href="https://www.senolsoyleyici.com.tr/" target="_blank"><b>senolsoyleyici.com</b></a> — A beautifully crafted poetry platform with clean UI, dynamic routing, secure JWT authentication, and a modern full-stack architecture.
   </li>
 </ul>
 
