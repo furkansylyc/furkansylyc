@@ -61,7 +61,7 @@
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkansylyc&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=furkansylyc&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🛠 Most Used Languages
