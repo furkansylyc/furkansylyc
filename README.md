@@ -54,22 +54,21 @@
 
 ---
 
-###  GitHub Stats
+### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkansylyc&show_icons=true&theme=radical&cache_seconds=1800&rand=123456" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkansylyc&theme=radical&cache_seconds=1800&rand=123456" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkansylyc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Furkan's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkansylyc&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
-
-###  Top Languages
+### 🛠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkansylyc&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkansylyc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ###  Connect with Me
