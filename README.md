@@ -14,7 +14,7 @@
 ###  About Me
 
 -  Currently building **Mobile Apps**
--  Learning & exploring: **Unity, Java, Kotlin, Jetpack Compose, React**
+-  Learning & exploring: **Java, Kotlin, Jetpack Compose, React**
 -  Backend curious: **Spring Boot, REST APIs, Docker**
 -  Always hungry to learn new technologies and deliver real-world projects!
 
