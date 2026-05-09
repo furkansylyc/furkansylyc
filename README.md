@@ -36,14 +36,13 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 
-# 🧠 NEURAL PROFILE
+#  PROFILE
 
 name: Furkan Söyleyici
 
 role:
   - Android Developer
   - Mobile UI Architect
-  - Indie Game Developer
 
 university:
   name: Süleyman Demirel University
@@ -59,7 +58,6 @@ currently_learning:
 interests:
   - Futuristic UI Systems
   - AI-Powered Applications
-  - Game Mechanics
   - Modern Mobile Experiences
 
 status: "Building the future one app at a time."
