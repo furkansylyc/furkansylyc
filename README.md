@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6d28d9,100:00f5ff&height=260&section=header&text=Furkan%20S%C3%B6yleyici&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Cyber%20Enthusiast&descSize=20&descAlignY=55&descColor=94a3b8"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=90&lines=%E2%9A%A1+Building+Futuristic+Android+Experiences;%F0%9F%9A%80+Kotlin+%7C+Jetpack+Compose+%7C+Java;%F0%9F%8E%AE+Game+Developer+with+Creative+Vision;%F0%9F%8C%8C+Computer+Engineering+Student+at+SDU" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=90&lines=%E2%9A%A1+Building+Futuristic+Mobile+%26+Web+Experiences;%F0%9F%9A%80+Full-Stack+Dev+%7C+Android+Dev+%7C+Kotlin+%7C+Java;%F0%9F%8C%90+Cyber+Enthusiast+%7C+System+Thinker;%F0%9F%8C%8C+Computer+Engineering+Student+at+SDU" />
 
 <br/>
 
