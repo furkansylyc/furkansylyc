@@ -20,21 +20,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-
-+ SYSTEM ONLINE
-+ Android Developer Detected
-+ Jetpack Compose Specialist Loading...
-+ Creativity Module Activated
-
-
-</div>
-
----
-
 <img align="right" width="320" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 
 #  PROFILE
