@@ -118,7 +118,7 @@ status: "Building the future one app at a time."
 
 ---
 
-# 🛠 TECH ARSENAL
+# 🛠 TECH 
 
 <div align="center">
 
